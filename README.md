@@ -1,4 +1,4 @@
-#№ Depthy compares diffs on arrays recursively
+## Depthy compares diffs on arrays recursively
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/arthurkushman/depthy/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/arthurkushman/depthy/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/arthurkushman/depthy/badges/build.png?b=master)](https://scrutinizer-ci.com/g/arthurkushman/depthy/build-status/master)
 [![Code Intelligence Status](https://scrutinizer-ci.com/g/arthurkushman/depthy/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
